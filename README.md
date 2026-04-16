@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZackHolmes47
 - 👀 I’m interested in coding, music, and gaming.
-- 🌱 I’m currently learning some c-sharp, sql, and html code. 
+- 🌱 I’m currently learning some c-sharp, html, sql, and python code. 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me, Email: zack.holmes2003@gmail.com
 - 😄 Pronouns: He/Him
